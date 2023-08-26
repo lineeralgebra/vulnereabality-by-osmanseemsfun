@@ -1,7 +1,7 @@
 from itertools import product
 
 # Read the contents of the three files into lists
-with open('file1.txt', 'r') as f1, open('file2.txt', 'r') as f2, open('file3.txt', 'r') as f3:
+with open('jobs.txt', 'r') as f1, open('berlin-postal-code.txt', 'r') as f2, open('geld.txt', 'r') as f3:
     lines1 = [line.strip() for line in f1.readlines()]
     lines2 = [line.strip() for line in f2.readlines()]
     lines3 = [line.strip() for line in f3.readlines()]
