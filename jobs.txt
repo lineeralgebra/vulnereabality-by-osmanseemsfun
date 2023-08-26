@@ -1,0 +1,90 @@
+    engineer
+    doctor
+    teacher
+    scientist
+    artist
+    writer
+    architect
+    psychologist
+    economist
+    programmer
+    lawyer
+    physicist
+    biologist
+    chemist
+    astronomer
+    geologist
+    historian
+    philosopher
+    linguist
+    journalist
+    photographer
+    chef
+    musician
+    actor/actress
+    dancer
+    pilot
+    firefighter
+    police officer
+    paramedic
+    farmer
+    veterinarian
+    nurse
+    dentist
+    librarian
+    florist
+    electrician
+    plumber
+    carpenter
+    mechanic
+    graphic designer
+    fashion designer
+    interior designer
+    film director
+    environmentalist
+    sociologist
+    anthropologist
+    archaeologist
+    social worker
+    baker
+    barista
+    sommelier
+    fitness trainer
+    yoga instructor
+    life coach
+    financial analyst
+    marketing manager
+    sales representative
+    entrepreneur
+    statistician
+    urban planner
+    political scientist
+    data scientist
+    computer scientist
+    astrophysicist
+    cryptographer
+    game developer
+    aerospace engineer
+    chemical engineer
+    civil engineer
+    mechanical engineer
+    materials scientist
+    mathematician
+    nanotechnologist
+    robotics engineer
+    sound engineer
+    geneticist
+    immunologist
+    microbiologist
+    neuroscientist
+    paleontologist
+    marine biologist
+    climate scientist
+    meteorologist
+    volcanologist
+    seismologist
+    oceanographer
+    wildlife biologist
+    conservationist
+    zoologist
+    ecologist
